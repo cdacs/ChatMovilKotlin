@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "600976472346",
+    "firebase_url": "https://chat-5fada.firebaseio.com",
+    "project_id": "chat-5fada",
+    "storage_bucket": "chat-5fada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600976472346:android:5483994155771467",
+        "android_client_info": {
+          "package_name": "com.tco.camilo.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600976472346-p2o0khd4ekt95k8cuhdre2ddr8v5su9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tco.camilo.chat",
+            "certificate_hash": "ed57dc73be326f97d0059b69106dbc2cc002920f"
+          }
+        },
+        {
+          "client_id": "600976472346-84nq9gs3jtb1qbopltdq12fgsah3fm39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3nq5eSpxmyU9E1GCqeABApqAAJGJGfY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600976472346-84nq9gs3jtb1qbopltdq12fgsah3fm39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600976472346:android:511e53f4da51004c",
+        "android_client_info": {
+          "package_name": "com.tco.camilo.chatmovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600976472346-8v7msq545au8121uujdm18afcffe7m8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tco.camilo.chatmovil",
+            "certificate_hash": "ed57dc73be326f97d0059b69106dbc2cc002920f"
+          }
+        },
+        {
+          "client_id": "600976472346-84nq9gs3jtb1qbopltdq12fgsah3fm39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3nq5eSpxmyU9E1GCqeABApqAAJGJGfY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600976472346-84nq9gs3jtb1qbopltdq12fgsah3fm39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600976472346:android:b9c34601909e6d9f",
+        "android_client_info": {
+          "package_name": "com.tco.camilo.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600976472346-25qln6eu4g9nld948evf28oj1du81ctt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tco.camilo.prueba",
+            "certificate_hash": "ed57dc73be326f97d0059b69106dbc2cc002920f"
+          }
+        },
+        {
+          "client_id": "600976472346-84nq9gs3jtb1qbopltdq12fgsah3fm39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3nq5eSpxmyU9E1GCqeABApqAAJGJGfY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600976472346-84nq9gs3jtb1qbopltdq12fgsah3fm39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600976472346:android:9357901b0950f362",
+        "android_client_info": {
+          "package_name": "com.ufro.camilo.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600976472346-20dt45q2q8ndg9l6s3flqclhrthvnopb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ufro.camilo.chat",
+            "certificate_hash": "dde9aabc08c5e53e3105bee254b4db036cc58928"
+          }
+        },
+        {
+          "client_id": "600976472346-84nq9gs3jtb1qbopltdq12fgsah3fm39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3nq5eSpxmyU9E1GCqeABApqAAJGJGfY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600976472346-84nq9gs3jtb1qbopltdq12fgsah3fm39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
